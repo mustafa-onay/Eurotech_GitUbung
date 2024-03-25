@@ -4,5 +4,7 @@ public class Buch {
 
         System.out.println("Mehmet schrieb das erste Kapitel");
 
+        System.out.println("Mehmet hat das erste Kapitel korrigiert");
+
     }
 }
